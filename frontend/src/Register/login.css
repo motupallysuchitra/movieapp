@@ -1,0 +1,70 @@
+.logpart{
+  background-image: url("background.jpg");
+  background-color: #cccccc;
+}
+
+
+.App {
+  height:100vh;
+  background-image: url("background.jpg");
+  background-position: center center;
+  background-repeat: repeat;
+  overflow-y: auto;    
+
+}
+
+label{
+  color: white;
+}
+
+.logg{
+  font-size: 3em;
+  color: white;
+}
+.btn-primary {
+  background-color: #df1827 !important;
+  border-color: white !important;
+  margin-top: 20px;
+}
+
+label{
+  font-size: 2em;
+  text-shadow: 5px 5px 5px black;
+}
+
+.mainform{
+      
+      background: transparent;
+      padding: 30px 40px;
+      display: flex;
+      margin-top: 80px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+
+.form-control{
+  width: 40vw !important;
+  box-shadow: 2px 2px 2px black;
+  text-align: center;
+}
+
+.form-group{
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-danger{
+  font-size: 20px !important;
+  font-weight: 700;
+  text-shadow: 2px 2px 2px black;
+ 
+}
+.text-center{
+  color:white;
+}
+.contanier{
+  display: block !important;
+}

@@ -1,0 +1,31 @@
+
+.footer{
+    flex-wrap: wrap;
+    width: auto;
+    height: 20vh;
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2em;
+    margin: 1.5em;
+
+
+}
+.toppart{
+    cursor: pointer;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1em;
+    /* flex-basis: 20%; */
+    align-items: center;
+}
+.logopart{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2em;
+
+}

@@ -1,0 +1,107 @@
+
+.card-img-top{
+    /* cursor: pointer; */
+    height: 25em !important;
+    /* border-radius: 10% !important; */
+    /* box-shadow: 5px 5px 10px black; */
+    margin-bottom: 1em;
+    width: 20vw !important;
+
+
+}
+
+    
+.col-md-3{
+    cursor: pointer;
+    box-shadow: 5px 5px 1px black !important;
+    padding: 2px;
+    /* border-radius: 20% !important; */
+}
+
+.row{
+    justify-content: center !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+
+.card-main{
+    margin: 2em;
+    
+}
+.product-title{
+    cursor: pointer;
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 3px black;
+}
+
+
+.card-text{
+    cursor: pointer;
+    color: white;
+    font-size: 1em;
+    text-shadow: 2px 2px 3px black;
+
+
+}
+
+.genre{
+    font-size:0.8em;
+    
+}
+
+.pagination{
+    margin: 1em;
+    justify-content: center !important;
+    background: transparent !important;
+
+}
+.page-link {
+    color: wheat  !important;
+    padding: 0.375rem 0.75rem !important;
+    text-decoration: none !important;
+    background: transparent !important;
+}
+.page{
+    background-color: antiquewhite !important;
+}
+
+.show{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 20px !important;
+}
+
+.filter-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 50vw;
+    align-items: center;
+
+
+}
+.select-label{
+    font-size: 1.5em;
+}
+.select-class{
+    cursor: pointer;
+    border-color:black;
+    box-shadow: 2px 2px 3px black;
+    margin: 1em;
+    background: transparent;
+    color: black;
+    padding: 0.5em;
+}
+.thtrdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.myinput{
+    width: 20 vw !important;
+}

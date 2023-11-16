@@ -1,0 +1,65 @@
+
+
+.boletonav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.tob{
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn-outline-success {
+    color: white !important;
+    border-color:black !important;
+    /* box-shadow: 3px 3px 5px gray !important; */
+}
+.btn-outline-success:hover{
+    /* background-color: purple !important; */
+    background-color:  #df1827!important;;
+}
+
+
+.navbar{
+    background: rgb(2, 0, 36);
+    /* background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(152, 19, 180, 1) 57%, rgba(10, 135, 160, 1) 100%); */
+    .hervey-bg {
+  background-color: #00FFFF;
+}
+
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: white !important;
+    font-size: larger !important;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active:hover{
+    color: rgb(0, 107, 128) !important;
+
+}
+
+.container-fluid{
+    gap: 10px !important;
+}
+
+.d-flex {
+    display: flex !important;
+    justify-content: center !important;
+    justify-content: space-around;
+    gap: 5px;
+}
+.movie-image{
+    border-radius: 50%;
+    background: transparent;
+}
+
+
+  
