@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "65565675bf3529f5aeccf05d"
+  },
+  "booking_id": 1,
+  "user_id": 3,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 300
+},
+{
+  "_id": {
+    "$oid": "655656febf3529f5aeccf062"
+  },
+  "booking_id": 2,
+  "user_id": 3,
+  "movie_id": 9,
+  "theater_id": 14,
+  "total_cost": 400
+},
+{
+  "_id": {
+    "$oid": "655658d15211dded8b95b88b"
+  },
+  "booking_id": 3,
+  "user_id": 3,
+  "movie_id": 5,
+  "theater_id": 6,
+  "total_cost": 250
+}]

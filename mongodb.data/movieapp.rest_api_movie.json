@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279e0"
+  },
+  "movie_id": 10,
+  "title": "Avatar",
+  "director": "Jemescameror",
+  "image": "https://lumiere-a.akamaihd.net/v1/images/avatar-frontiers-of-pandora-grid-object-thumb_8c8d9f32.jpeg?region=0,0,1920,1080&width=768",
+  "genre": "Action",
+  "duration": 127,
+  "releasedate": "2023-06-09",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279db"
+  },
+  "movie_id": 5,
+  "title": "Chandramukhi",
+  "director": "PS vasu",
+  "image": "https://keralakaumudi.com/web-news/en/2023/09/NMAN0434773/image/raghava-lawrence-.1.2335696.jpg",
+  "genre": "Horror",
+  "duration": 122,
+  "releasedate": "2023-10-02",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279dc"
+  },
+  "movie_id": 6,
+  "title": "Rangabali",
+  "director": "Pawan Basamsetti",
+  "image": "https://cdn.123telugu.com/content/wp-content/uploads/2023/07/Rangabali-m.jpg",
+  "genre": "Drama",
+  "duration": 134,
+  "releasedate": "2023-10-10",
+  "language": "Telegu"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279d8"
+  },
+  "movie_id": 1,
+  "title": "Jawan",
+  "director": "Aleekumar",
+  "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/shah-rukh-khan--jawan--srk-films-295651-16x9.jpg?VersionId=Ddej.9DLpQW91sSb7YB6E_5yd7e1xypP&size=690:388",
+  "genre": "Action",
+  "duration": 140,
+  "releasedate": "2023-08-11",
+  "language": "Telugu"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279dd"
+  },
+  "movie_id": 7,
+  "title": "1920: Skanda",
+  "director": "Boyapati Srinu",
+  "image": "https://ottraja.com/wp-content/uploads/2023/07/Skanda-Movie-OTT-Release-Date.jpg",
+  "genre": "Action",
+  "duration": 123,
+  "releasedate": "2023-09-15",
+  "language": "Telugu"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279df"
+  },
+  "movie_id": 9,
+  "title": "King of kotha",
+  "director": "Jakes",
+  "image": "https://th-i.thgim.com/public/entertainment/movies/msi0m0/article67220995.ece/alternates/FREE_1200/1920%20x%201080%20couple.jpg",
+  "genre": "Action",
+  "duration": 169,
+  "releasedate": "2023-03-16",
+  "language": "Telugu"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279ea"
+  },
+  "movie_id": 20,
+  "title": "The Monkey King",
+  "director": "Anthony Stacchi",
+  "image": "https://m.media-amazon.com/images/M/MV5BZTMzYmJiZTgtOWFjNy00MDhjLThhNTQtNzEyYmNmYzc1MDUyXkEyXkFqcGdeQXVyMTI3NDc5MDgw._V1_.jpg",
+  "genre": "Family",
+  "duration": 97,
+  "releasedate": "2023-09-21",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "64eec460e33f7b9755f279da"
+  },
+  "movie_id": 3,
+  "title": "The Road",
+  "director": "Arunu",
+  "image": "https://assetscdn1.paytm.com/images/cinema/theRoad-b2111570-f3ce-11ed-a47a-ddf71bafc398.jpg",
+  "genre": "Action",
+  "duration": 122,
+  "releasedate": "2023-11-22",
+  "language": "Telugu"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e32c"
+  },
+  "movie_id": 4,
+  "title": "Moonshot",
+  "director": "Christopher Winterbauer",
+  "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/How-to-Watch-Moonshot.jpg",
+  "genre": "Romantic",
+  "duration": 100,
+  "releasedate": "2023-10-02",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e336"
+  },
+  "movie_id": 14,
+  "title": "Let's Get Married",
+  "director": "Ramesh Thamilmani",
+  "image": "https://static.toiimg.com/thumb/msid-99384681,width-1070,height-580,imgsize-52550,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+  "genre": "Drama",
+  "duration": 140,
+  "releasedate": "2023-08-08",
+  "language": "Tamil"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e335"
+  },
+  "movie_id": 13,
+  "title": "Harkara",
+  "director": "Ram Arun Castro",
+  "image": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2023/6/3/original/harkara.jpg",
+  "genre": "Drama/History",
+  "duration": 135,
+  "releasedate": "2023-06-25",
+  "language": "Tamil"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e338"
+  },
+  "movie_id": 16,
+  "title": "Spy Kids: Armageddon",
+  "director": "Robert Rodriguez",
+  "image": "https://staticg.sportskeeda.com/editor/2023/09/c44db-16944979249025-1920.jpg?w=840",
+  "genre": "Adventure/Comedy",
+  "duration": 120,
+  "releasedate": "2023-10-11",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e334"
+  },
+  "movie_id": 12,
+  "title": "tiger nageswara rao",
+  "director": "Vamsi Krishna Akella",
+  "image": "https://www.m9.news/wp-content/uploads/2023/10/Tiger-Nageswara-Rao-Trailer.jpeg",
+  "genre": "Action",
+  "duration": 180,
+  "releasedate": "2023-08-05",
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e333"
+  },
+  "movie_id": 11,
+  "title": "Bedurulanka 2012",
+  "director": "Clax",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bedurulanka-2012-et00341419-1692684585.jpg",
+  "genre": "Action",
+  "duration": 140,
+  "releasedate": "2023-08-05",
+  "language": "Telugu"
+},
+{
+  "_id": {
+    "$oid": "651dc5079a64e3e93ff0e337"
+  },
+  "movie_id": 15,
+  "title": "The Little Mermaid",
+  "director": "Rob Marshall",
+  "image": "https://images.disneymovieinsiders.com/45e302be324f9489547237e12b27362b/472ac44d-1e46-4cd3-b20b-f82211f8aed1.jpg",
+  "genre": "Fantasy/Musical",
+  "duration": 123,
+  "releasedate": "2023-08-08",
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "651e65eeb7f4d85d508086df"
+  },
+  "movie_id": 17,
+  "title": "hi Nanna",
+  "director": "shouryuv",
+  "image": "https://www.filmibeat.com/ph-big/2023/07/hi-nanna_168925163500.jpg",
+  "genre": "love/caring",
+  "duration": 120,
+  "language": "telugu/hindi/tamil",
+  "releasedate": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  }
+}]

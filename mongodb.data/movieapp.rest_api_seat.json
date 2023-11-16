@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "5f9d88a106f0a1e29d4b3b01"
+  },
+  "theater_id": {
+    "$oid": "5f9d88a106f0a1e29d4b3b11"
+  },
+  "seat_number": "A1",
+  "category": "Standard",
+  "price": 10,
+  "is_reserved": false
+},
+{
+  "_id": {
+    "$oid": "6556566ebf3529f5aeccf05b"
+  },
+  "id": 1,
+  "number": "A3",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "65565670bf3529f5aeccf05c"
+  },
+  "id": 2,
+  "number": "A4",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "655656f9bf3529f5aeccf060"
+  },
+  "id": 3,
+  "number": "B5",
+  "movie_id": 9,
+  "theater_id": 14,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "655656fbbf3529f5aeccf061"
+  },
+  "id": 4,
+  "number": "B4",
+  "movie_id": 9,
+  "theater_id": 14,
+  "available": false,
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "655658ce5211dded8b95b88a"
+  },
+  "id": 5,
+  "number": "C5",
+  "movie_id": 5,
+  "theater_id": 6,
+  "available": false,
+  "price": 250
+}]

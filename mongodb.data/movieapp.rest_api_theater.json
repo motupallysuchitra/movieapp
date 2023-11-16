@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279ec"
+  },
+  "theater_id": 1,
+  "name": "Hind Inox",
+  "city": "Kolkata",
+  "pincode": 700081,
+  "timing": "10:30",
+  "address": "Ganesh ch Avenue",
+  "movie_id": 1
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279ed"
+  },
+  "theater_id": 2,
+  "name": "Star Mall Inox",
+  "city": "Barasat",
+  "pincode": 700191,
+  "movie_id": 1,
+  "timing": "09:30",
+  "address": "Madhyamgram"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279ee"
+  },
+  "theater_id": 3,
+  "name": "Jayanti",
+  "city": "Barrackpore",
+  "pincode": 700117,
+  "movie_id": 2,
+  "timing": "12:30",
+  "address": "Barrackpore"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279ef"
+  },
+  "theater_id": 4,
+  "name": "IMAX",
+  "city": "Kolkata",
+  "pincode": 700117,
+  "movie_id": 4,
+  "timing": "08:30",
+  "address": "Park Circuis"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f0"
+  },
+  "theater_id": 5,
+  "name": "PVR",
+  "city": "Kolkata",
+  "pincode": 700117,
+  "movie_id": 4,
+  "timing": "13:30",
+  "address": "Mani Square Mall"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f1"
+  },
+  "theater_id": 6,
+  "name": "Cinemax",
+  "city": "Salt Lake",
+  "pincode": 700043,
+  "movie_id": 5,
+  "timing": "18:30",
+  "address": "City Center 1"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f2"
+  },
+  "theater_id": 7,
+  "name": "Cinemax",
+  "city": "Salt Lake",
+  "pincode": 700043,
+  "movie_id": 6,
+  "timing": "11:30",
+  "address": "City Center 1"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f3"
+  },
+  "theater_id": 8,
+  "name": "Inox",
+  "city": "Salt Lake",
+  "pincode": 700043,
+  "movie_id": 6,
+  "timing": "15:00",
+  "address": "City Center 2"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f4"
+  },
+  "theater_id": 9,
+  "name": "Cinemax",
+  "city": "Bidhannagar",
+  "pincode": 700043,
+  "movie_id": 7,
+  "timing": "16:45",
+  "address": "Mani Square Mall"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f5"
+  },
+  "theater_id": 10,
+  "name": "Atindra",
+  "city": "Barrackpore",
+  "pincode": 7000122,
+  "movie_id": 7,
+  "timing": "13:10",
+  "address": "Atindra Barrackpore"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f6"
+  },
+  "theater_id": 11,
+  "name": "Cinemax",
+  "city": "Salt Lake",
+  "pincode": 700043,
+  "movie_id": 7,
+  "timing": "14:05",
+  "address": "City Center 1"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f7"
+  },
+  "theater_id": 12,
+  "name": "Cinemax",
+  "city": "Salt Lake",
+  "pincode": 700043,
+  "movie_id": 8,
+  "timing": "09:35",
+  "address": "City Center 1"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f8"
+  },
+  "theater_id": 13,
+  "name": "Atindra",
+  "city": "Barrackpore",
+  "pincode": 7000122,
+  "movie_id": 9,
+  "timing": "17:20",
+  "address": "Atindra Barrackpore"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279f9"
+  },
+  "theater_id": 14,
+  "name": "Atindra",
+  "city": "Barrackpore",
+  "pincode": 7000122,
+  "movie_id": 9,
+  "timing": "11:10",
+  "address": "Atindra Barrackpore"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279fa"
+  },
+  "theater_id": 15,
+  "name": "Star Mall Inox",
+  "city": "Barasat",
+  "pincode": 700191,
+  "movie_id": 10,
+  "timing": "19:30",
+  "address": "Madhyamgram"
+},
+{
+  "_id": {
+    "$oid": "64eed293e33f7b9755f279fb"
+  },
+  "theater_id": 16,
+  "name": "Star Mall Inox",
+  "city": "Barasat",
+  "pincode": 700191,
+  "movie_id": 10,
+  "timing": "19:35",
+  "address": "Madhyamgram"
+}]
